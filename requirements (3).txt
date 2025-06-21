@@ -1,6 +1,0 @@
-opencv-python
-numpy
-Pillow
-ttkbootstrap
-```
-- tkinter is included with standard Python installations; if missing, install python3-tk via your OS package manager.
